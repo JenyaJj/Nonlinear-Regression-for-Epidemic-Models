@@ -85,6 +85,6 @@ The project explores how well these models describe the early spread of an epide
 - nonlinear_regression.ipynb — Main script that handles all tasks related to nonlinear regression. This Jupyter notebook includes the necessary code for data processing, model fitting, evaluation, and other related steps.
 - README.md — Project documentation.
 - data/ — Folder containing the dataset used for the nonlinear regression tasks.
-- output/ — Folder where the generated plots and visualizations are stored.
+- plots/ — Folder where the generated plots and visualizations are stored.
 - report.pdf - A detailed report summarizing the entire project. It includes all necessary calculations, analysis of the results, and a comprehensive discussion of the work completed according to the project requirements.
 
